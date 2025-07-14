@@ -11,3 +11,17 @@ print ("Hello world") #This is a comment
 #A comment does not have to be text that explains the code, it can also be used to prevent Python from executing code:
 #print("Hello world")
 print("Cheers, Mate!")
+
+#Multline Comments
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
+
+#Multiline comments using multiline string
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, World!")
